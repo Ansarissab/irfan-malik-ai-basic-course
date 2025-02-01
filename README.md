@@ -23,3 +23,5 @@ Links
 [Lecture 21](https://docs.google.com/presentation/d/1vRYqKt-13fgL1_uxubC4jc_RcnlS8ucN/edit#slide=id.g25fee922ceb_0_5)  
 [Lecture 22](https://colab.research.google.com/drive/1mA1-Qp4wLfJ9heprE0KR-X_UIhfrieNN)  
 [Lecture 23](https://colab.research.google.com/drive/1mA1-Qp4wLfJ9heprE0KR-X_UIhfrieNN#scrollTo=Al0gZIXGrzta)  
+[Lecture 24](https://docs.google.com/presentation/d/1AMiGW9-MBI0I9b3wjPaJQRsasWdwl6Ms/edit#slide=id.p1)  
+[Lecture 25](https://colab.research.google.com/drive/1hdWUQ_pC3cks7j4VgBKuLXOf9dNiaI2p)  
